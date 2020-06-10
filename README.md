@@ -1,2 +1,0 @@
-# FirstHomework
-Homework project
